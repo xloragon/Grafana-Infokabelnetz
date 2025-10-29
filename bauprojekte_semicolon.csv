@@ -1,10 +1,7 @@
-"Jahr";"Monat";"Projektname";"Status";"Kosten_EUR";"Dauer_Monate";"Ort";"Kategorie"
-"2023";"1";"Neubau Grundschule";"abgeschlossen";"1200000";"12";"Musterstadt";"Schulbau"
-"2023";"5";"Straßensanierung West";"abgeschlossen";"850000";"8";"Musterstadt";"Infrastruktur"
-"2023";"9";"Feuerwehrhaus Neubau";"abgeschlossen";"1600000";"14";"Dorfheim";"Öffentliche Gebäude"
-"2024";"2";"Kita Erweiterung Süd";"laufend";"600000";"10";"Musterstadt";"Schulbau"
-"2024";"4";"Rathaus Sanierung";"laufend";"950000";"12";"Altstadt";"Verwaltung"
-"2024";"10";"Brückenneubau Nord";"geplant";"2100000";"18";"Brückdorf";"Infrastruktur"
-"2025";"1";"Wohngebiet Ost Erschließung";"geplant";"3000000";"20";"Musterstadt";"Wohnungsbau"
-"2025";"3";"Schulzentrum Modernisierung";"laufend";"1800000";"15";"Musterstadt";"Schulbau"
-"2025";"7";"Stadthalle Neubau";"geplant";"2500000";"24";"Altstadt";"Kultur"
+Jahr,Projektname,Status,Ort,Kategorie,Kosten_EUR
+2023,Neubau Schule,abgeschlossen,Musterstadt,Schulbau,1200000
+2023,Straßenbau West,abgeschlossen,Musterstadt,Infrastruktur,850000
+2024,Kita Süd,laufend,Musterstadt,Schulbau,600000
+2024,Rathaus Sanierung,laufend,Altstadt,Verwaltung,950000
+2025,Stadthalle Neubau,geplant,Altstadt,Kultur,2500000
+2025,Wohngebiet Ost,geplant,Musterstadt,Wohnungsbau,3000000
